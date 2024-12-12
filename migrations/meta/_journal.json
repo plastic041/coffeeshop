@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1733973239448,
+      "tag": "0000_fancy_nova",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1733973557072,
+      "tag": "0001_icy_drax",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1733974011383,
+      "tag": "0002_slimy_darkhawk",
+      "breakpoints": true
+    }
+  ]
+}
